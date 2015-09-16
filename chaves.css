@@ -1,0 +1,52 @@
+﻿body{font-family:Tahoma}
+h1{
+	font-size:50px;
+	background-color: green;
+	color:white;
+	font-weight: bold;
+}
+h2{
+	font-size:50px;
+	background-color: green;
+	color:white;
+	font-weight: normal;
+	font-style: italic;
+}
+p{text-align:justify;font-size:20px;}
+
+#turmadochaves {font-size:15px;
+				text-align: right;
+				font-style:italic;
+}
+.chiquinha{color:green;}
+.madruga{color:darkblue;}
+.quico{color:red;}
+
+#divelenco{text-align: center;}
+div.chiquinha{border-style: groove; 
+			 background-color: coral;
+			 border-color: green;
+			 color: white;
+			 padding-left: 100px;
+			 padding-right: 100px;
+			 width:70%;
+			 height:500;
+}
+div.madruga{border-style: groove; 
+			 background-color: red;
+			 border-color: green;
+			 color: white;
+			 padding-left: 100px;
+			 padding-right: 100px;
+			 width:70%;
+			 height:500;
+}
+div.quico{border-style: groove; 
+			 background-color:	blue ;
+			 border-color: green;
+			 color: white;
+			 padding-left: 100px;
+			 padding-right: 100px;
+			 width:70%;
+			 height:500;
+}
